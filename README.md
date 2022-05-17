@@ -1,1 +1,1 @@
-# pcc-cis-031-introduction-to-database-management
+# CIS 031 : Introduction to Database Management
